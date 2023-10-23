@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/bin/Debug/net6.0/example004_dif
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/bin/Debug/net6.0/example004_dif.deps.json
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/bin/Debug/net6.0/example004_dif.runtimeconfig.json
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/bin/Debug/net6.0/example004_dif.dll
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/bin/Debug/net6.0/example004_dif.pdb
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.AssemblyInfo.cs
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.dll
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/refint/example004_dif.dll
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.pdb
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/example004_dif.genruntimeconfig.cache
+/Users/macbook/Desktop/Masha2/c#/lesson1/example003_sum/example004_dif/obj/Debug/net6.0/ref/example004_dif.dll
